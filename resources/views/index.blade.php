@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 	</head>
 	<body>
-		<section class="todoapp">
+		<section class="todoapp" id="todoApp">
 			<header class="header">
 				<h1>todos</h1>
 				<input class="new-todo" placeholder="What needs to be done?" autofocus>
